@@ -1,5 +1,8 @@
 # ESP32 UDP/WebSocket Chat
 
+## About
+No description, website, or topics provided
+
 A real-time chat application using ESP32, featuring both WebSocket and UDP communication protocols. The application provides a modern, responsive web interface for seamless communication between multiple clients.
 
 ## Features
@@ -68,7 +71,3 @@ A real-time chat application using ESP32, featuring both WebSocket and UDP commu
 ## Credits
 
 Created by Kent Carlo Amante
-
-## License
-
-MIT License
